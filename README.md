@@ -1,10 +1,10 @@
 # Twitter-Clone
 twitter clone created with react native
-**Here are the steps you need to take**
- *1*-Download Node.js from [here](https://nodejs.org/en/)
- *2*-Download project file
- *3*-Go project folder from terminal
- *4*-Paste this code
+**Here are the steps you need to take**  
+ *1*-Download Node.js from [here](https://nodejs.org/en/)  
+ *2*-Download project file  
+ *3*-Go project folder from terminal  
+ *4*-Paste this code  
  
 
     npm start
